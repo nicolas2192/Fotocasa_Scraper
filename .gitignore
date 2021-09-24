@@ -1,5 +1,6 @@
 # This repo stuff
 bin/chromedriver
+bin/phantomjs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
